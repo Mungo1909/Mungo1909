@@ -1,0 +1,5 @@
+body{background-color: pink;}
+p{color: white}
+img{display: flex;width: 4%;max-width: 500px;margin: center}
+.style1{color: red;}
+.p1 {border-width: 5px; padding: 10px; margin-right: 0px; margin-left:0px; border-color: black; border-style: solid;}
